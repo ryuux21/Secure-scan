@@ -9,6 +9,9 @@ can quickly and accurately identify students using their ID cards, and track the
 phones they are submitting or collecting. This eliminates the need for manual
 processes such as writing student details in a book, which can be time-
 consuming and prone to errors.
+
+![baggizmo-rfid](https://user-images.githubusercontent.com/105121967/226135072-1056bf45-7830-4110-882f-a8965d5d17ed.gif)
+
 Another advantage of the project is the ability to store data electronically,
 which allows for easy access and retrieval of information. This can be useful for
 school administrators who need to track phone submissions and collections, as
@@ -21,5 +24,4 @@ security and management.
 
 Prereq: Raspberry pi model 3 with RFID module E-18
 
-![baggizmo-rfid](https://user-images.githubusercontent.com/105121967/226135072-1056bf45-7830-4110-882f-a8965d5d17ed.gif)
 
