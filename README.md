@@ -20,3 +20,6 @@ and collection process, improve data accuracy and accessibility, and facilitate
 security and management.
 
 Prereq: Raspberry pi model 3 with RFID module E-18
+
+![baggizmo-rfid](https://user-images.githubusercontent.com/105121967/226135072-1056bf45-7830-4110-882f-a8965d5d17ed.gif)
+
