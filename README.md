@@ -18,3 +18,5 @@ and management.
 In summary, this project can help schools to streamline their phone submission
 and collection process, improve data accuracy and accessibility, and facilitate
 security and management.
+
+Prereq: Raspberry pi model 3 with RFID module E-18
